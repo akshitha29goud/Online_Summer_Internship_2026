@@ -27,7 +27,7 @@ pip install -U ultralytics
 
 ---
 
-## ✅ Task 4: Object Detection using YOLO
+##  Task 4: Object Detection using YOLO
 
 Used pretrained YOLO model for object detection.
 
@@ -47,9 +47,9 @@ results[0].show()
 
 ---
 
-## 📸 Output
+##  Output
 
-(Add your screenshot here)
+https://drive.google.com/file/d/13ZOsV5L2HC6OLgWypEzwF4OtfAnvQ-z2/view?usp=sharing
 
 ---
 
@@ -61,6 +61,4 @@ results[0].show()
 
 ---
 
-## 📌 Notes
 
-All tasks executed inside virtual environment.
