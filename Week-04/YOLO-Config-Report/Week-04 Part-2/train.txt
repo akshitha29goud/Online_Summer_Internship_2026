@@ -1,0 +1,5 @@
+import os
+
+with open("train.txt", "w") as f:
+    for img in os.listdir("dataset/images/train"):
+        f.write(f"dataset/images/train/{img}\n")

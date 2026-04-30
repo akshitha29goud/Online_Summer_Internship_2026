@@ -1,0 +1,29 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "bicycle"
+    },
+    {
+      "id": 1,
+      "name": "car"
+    },
+    {
+      "id": 2,
+      "name": "handbag"
+    },
+    {
+      "id": 3,
+      "name": "person"
+    },
+    {
+      "id": 4,
+      "name": "traffic light"
+    }
+  ],
+  "info": {
+    "year": 2026,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}
