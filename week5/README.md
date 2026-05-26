@@ -40,5 +40,8 @@
 - Ultralytics YOLO
 - FFmpeg
 
+## Application Focus
+Custom Traffic Object Detection using Computer Vision
+
 ## Outcome
 Successfully completed the complete computer vision pipeline including dataset preparation, annotation, preprocessing, model training, testing and output generation using custom object detection classes.
